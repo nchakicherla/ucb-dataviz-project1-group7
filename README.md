@@ -26,9 +26,9 @@ Q2 Does one’s chosen occupation play a significant role in mental health?
 
   Chi-Squared test indicates no significant association between Occupation and Mental Health. These results suggest that any observed differences in mental health history between occupations are due to random chance or other factors. (refer to occupation_mental_health.ipynb)
 
-Q3 Does mental health factors have an impact on one’s interest in their work?
+Q3 Does mental health factors have an impact on one’s interest in their work?  
 
-  A large volume of respondents showcased a mid range raying for a propensity to mental health issues while also being negatively impacted by mental health issues and the volume of people's interest in work was evenly spread across the low/mid and high impact ratings (refer to 
+  A large volume of respondents showcased a mid range raying for a propensity to mental health issues while also being negatively impacted by mental health issues and the volume of people's interest in work was evenly spread across the low/mid and high impact ratings (refer to Question 3 folder) 
 
 Q4 Are self-employed less susceptible to mental health? 
 
