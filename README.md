@@ -6,8 +6,9 @@ Objectives:
 Compare mental health correlation between different groups/ attributes (e.g., self-employed vs. employed individuals, different countries, gender, etc) to identify disparities or similarities and their potential causes and provide insights that could inform public health policies, interventions, or initiatives aimed at improving mental health outcomes at local, national, or global levels.
 
 Data: Survey Results (https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset/data)
+(refer to Mental-Health-Dataset.csv)
 
-Data Cleaning and Preprocessing:
+Data Cleaning and Preprocessing: (refer to clean_up_file.ipynb)
 - Remove blanks and remove time stamp
 - Converted categorical values into integers for better statistical analysis
 - Added 2 features:
