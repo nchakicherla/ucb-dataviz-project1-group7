@@ -28,7 +28,7 @@ Q2 Does one’s chosen occupation play a significant role in mental health?
 
 Q3 Does mental health factors have an impact on one’s interest in their work?  
 
-  A large volume of respondents showcased a mid range raying for a propensity to mental health issues while also being negatively impacted by mental health issues and the volume of people's interest in work was evenly spread across the low/mid and high impact ratings (refer to Question 3 folder) 
+  A large volume of respondents showcased a mid range raying for a propensity to mental health issues while also being negatively impacted by mental health issues and the volume of people's interest in work was evenly spread across the low/mid and high impact ratings (refer to Question 3 Final folder) 
 
 Q4 Are self-employed less susceptible to mental health? 
 
@@ -38,7 +38,7 @@ Q5 Is mental health severity lower in the US?
 
 Neither test revealed a lower average mental health score in the US than in countries outside the US. 
         Mann-Whitney U-test - No significant indication that median severity of mental health is lower in the United States.
-        Two-sample t-test - No significant indication that mean mental health severity is lower in the United States. (refer to country_severity.ipynb)
+        Two-sample t-test - No significant indication that mean mental health severity is lower in the United States. (refer to question-5 folder)
 
 Q6 - weighted population analysis of cluster samples that are classified by highest similarilty.  TOP 50/Bottom 50
 Modeling Approach: 
