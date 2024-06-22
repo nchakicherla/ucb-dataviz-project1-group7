@@ -1,5 +1,6 @@
 # ucb-dataviz-project1-group7
 Mental Health Data Analysis
+
 Mental health is defined based on factors and symptoms negatively affecting an individual’s mental well being.
 
 Objectives:
