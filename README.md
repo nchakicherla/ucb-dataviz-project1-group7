@@ -44,8 +44,7 @@ Neither test revealed a lower average mental health score in the US than in coun
 
 Q6 - weighted population analysis of cluster samples that are classified by highest similarilty.  TOP 50/Bottom 50
 Modeling Approach: 
-  Description of the machine learning models used, the rationale behind their selection, and any parameter tuning performed should be documented. This section helps in understanding the analytical techniques applied.
-Q6 - columns were dropped which had the least normal distributions first
+columns were dropped which had the least normal distributions first to increase similarity between subject traits
 Results: 
   The TOP 50 had a much higher correlation .95.  And if Bottom 50 correlation between treatment and family history is compared.  It can be determined that the 50 percent most common answers in this data set, set a high correlation between treatment and family history.  In opposition to the bottome 50 percent or least common answers where the correlation was negative. 
 Conclusions:
