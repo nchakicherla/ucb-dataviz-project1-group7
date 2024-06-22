@@ -36,9 +36,11 @@ Q4 Are self-employed less susceptible to mental health?
 
 Q5 Is mental health severity lower in the US?
 
+A derived metric "mental_health_severity" as a dependent variable was analyzed based on two samples: US and non-US measurements. The datapoints from the United States were one group, while measurements from other countries were aggregated to form a non-US population. A one-sided two-samples Mann-Whitney U-test was performed due to the derived nature of the factor (combination of other variables whose underlying distributions were unknown) a non-parametric test was performed. The initial categorical data was cleaned by removing null values, and applying a mapping from categorical values to numerical values. df_factors.csv was the starting point, and US / non-US populations were split before the statistical tests. A one-sided two sample t-test was also performed, since the large sample size approximates a normal underlying distribution.
+
 Neither test revealed a lower average mental health score in the US than in countries outside the US. 
         Mann-Whitney U-test - No significant indication that median severity of mental health is lower in the United States.
-        Two-sample t-test - No significant indication that mean mental health severity is lower in the United States. (refer to question-5 folder)
+        Two-sample t-test - No significant indication that mean mental health severity is lower in the United States. (refer to question-5 folder for analysis and slides)
 
 Q6 - weighted population analysis of cluster samples that are classified by highest similarilty.  TOP 50/Bottom 50
 Modeling Approach: 
